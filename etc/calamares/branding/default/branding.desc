@@ -8,24 +8,26 @@ sidebar: widget
 navigation: widget
 
 strings:
-    productName:         Xelph Linux
-    shortProductName:    Xelph
-    version:             2021.01.1
-    shortVersion:        2021.01.1
-    versionedName:       Xelph Linux
-    shortVersionedName:  Xelph Linux
+    productName:         ALCI
+    shortProductName:    ALCI
+    version:             2022.01.1
+    shortVersion:        2022.01.1
+    versionedName:       ALCI
+    shortVersionedName:  ALCI
     bootloaderEntryName: Generic
 
 images:
-    productIcon:         "nyarch.png"
-    productLogo:         "nyarch.png"
-    productWelcome:      "3-banner.png"
+    # productBanner:       "banner.png"
+    productIcon:         "squid.png"
+    productLogo:         "squid.png"
+    # productWallpaper:    "wallpaper.png"
+    productWelcome:      "2-alci.png"
 
 style:
-   sidebarBackground:    "#2E3440"
+   sidebarBackground:    "#292F34"
    sidebarText:          "#FFFFFF"
-   sidebarTextSelect:    "#000000"
-   sidebarTextHighlight: "#5E81AC"
+   sidebarTextSelect:    "#292F34"
+   sidebarTextHighlight: "#D35400"
 
 slideshow:               "show.qml"
 slideshowAPI: 2
